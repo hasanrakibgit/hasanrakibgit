@@ -34,5 +34,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rakibul-hasan-70667b90/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="rakibul.tqs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="rakibul.tqs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rakibul.tqs@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
